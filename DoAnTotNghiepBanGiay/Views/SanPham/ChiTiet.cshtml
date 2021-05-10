@@ -1,0 +1,693 @@
+﻿@using Model.EF
+@model Model.EF.SANPHAM
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_layoutClient1.cshtml";
+    var vbsize = (List<Model.EF.COGIAY>)ViewBag.vb_size;
+    Model.EF.DoanTNDataContext db = new Model.EF.DoanTNDataContext();
+
+    var vbrelative = (List<Model.EF.SANPHAM>)ViewBag.vb_relative;
+
+    var rate = 0;
+    if (ViewBag.rate != null)
+    {
+        rate = (int)ViewBag.rate;
+    }
+
+
+    var quantity = 0;
+    if (ViewBag.Quantity != null)
+    {
+        quantity = (int)ViewBag.Quantity;
+    }
+
+    // get user
+    var user = ViewBag.TaiKhoan as TAIKHOAN;
+}
+
+
+<input type="hidden" id="rate" value="@rate" />
+
+
+@section sectionHeader{
+
+
+    <title>@Model.TenSP</title>
+
+
+    <script type="text/javascript">
+        //    import { for } from "core-js/fn/symbol"
+        //import { log } from "gulp-util";
+
+        $(document).ready(function () {
+
+            //Javascript choose size
+            $('.item-attrxx').find('.labelxx').on('click', function () {
+                $('.item-attrxx').removeClass('checkxx');
+                $(this).parent('.item-attrxx').addClass('checkxx');
+                $('.item-attrxx').removeAttr('id');
+                $(this).parent('.item-attrxx').attr('id', "checkProduct");
+            });
+
+
+            //javascript add to cart
+            $('.get-cart-in').off('click').on('click', function (e) {
+                e.preventDefault();
+                var checkitem = $(document).find('.sizeProduct').find('.item-attrxx');
+                //var total = parseInt($('#txtQuantity').val());
+
+
+
+                if ((checkitem.hasClass('checkxx') == false)) {
+                    $(document).find('#popuperror').fadeIn(100);
+
+                }
+                else {
+                    if (checkitem.hasClass('checkxx')) {
+                        var size = parseInt($("#checkProduct").find('.labelxx').html());
+                        var idsanpham = parseInt($("#checkProduct").find('.labelsp').html());
+
+                        window.location.href = '/GioHang/AddToCart?idproduct=' + idsanpham + '&size=' + size + '&soluong=1';
+                    }
+                }
+            })
+
+
+
+            //Close popup
+
+            $('#popuperror_close').off('click').on('click', function (e) {
+                e.preventDefault();
+                $(document).find('#popuperror').fadeOut('fast');
+            });
+
+        });
+
+        function setMainImage(imgUrl) {
+            $("a.small-item").removeClass("active"); 
+            $("img.etalage_thumb_image, .etalage_zoom_img").attr("src", imgUrl);
+            $(".etalage_magnifier div img").attr("src", imgUrl);
+        }
+
+        /* END EXTERNAL SOURCE */
+        /* BEGIN EXTERNAL SOURCE */
+        function name30() {
+            handleMouseLeave(1)
+        }
+        /* END EXTERNAL SOURCE */
+        /* BEGIN EXTERNAL SOURCE */
+        function name31() {
+            handleMouseLeave(2)
+        }
+        /* END EXTERNAL SOURCE */
+        /* BEGIN EXTERNAL SOURCE */
+        function name32() {
+            handleMouseLeave(3)
+        }
+        /* END EXTERNAL SOURCE */
+        /* BEGIN EXTERNAL SOURCE */
+        function name33() {
+            handleMouseLeave(4)
+        }
+        /* END EXTERNAL SOURCE */
+        /* BEGIN EXTERNAL SOURCE */
+        function name34() {
+            handleMouseLeave(5)
+        }
+        /* END EXTERNAL SOURCE */
+        /* BEGIN EXTERNAL SOURCE */
+        function name35() {
+            setMainImage(this, '/***/');
+        }
+        /* END EXTERNAL SOURCE */
+        /* BEGIN EXTERNAL SOURCE */
+
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.5&appId=409801852540765";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+        /* END EXTERNAL SOURCE */
+        /* BEGIN EXTERNAL SOURCE */
+
+        //$(window).load(function () {
+        //    $("#flexiselDemo1").flexisel({
+        //        visibleItems: 5,
+        //        animationSpeed: 1000,
+        //        autoPlay: true,
+        //        autoPlaySpeed: 3000,
+        //        pauseOnHover: true,
+        //        enableResponsiveBreakpoints: true,
+        //        responsiveBreakpoints: {
+        //            portrait: {
+        //                changePoint: 480,
+        //                visibleItems: 1
+        //            },
+        //            landscape: {
+        //                changePoint: 640,
+        //                visibleItems: 2
+        //            },
+        //            tablet: {
+        //                changePoint: 768,
+        //                visibleItems: 3
+        //            }
+        //        }
+        //    });
+        //}
+        /* END EXTERNAL SOURCE */
+        /* BEGIN EXTERNAL SOURCE */
+        function name204() {
+            handleMouseLeave(1,/*******/)
+        }
+        /* END EXTERNAL SOURCE */
+        /* BEGIN EXTERNAL SOURCE */
+        function name205() {
+            handleMouseLeave(2,/*******/)
+        }
+        /* END EXTERNAL SOURCE */
+        /* BEGIN EXTERNAL SOURCE */
+        function name206() {
+            handleMouseLeave(3,/*******/)
+        }
+        /* END EXTERNAL SOURCE */
+        /* BEGIN EXTERNAL SOURCE */
+        function name207() {
+            handleMouseLeave(4,/*******/)
+        }
+        /* END EXTERNAL SOURCE */
+        /* BEGIN EXTERNAL SOURCE */
+        function name208() {
+            handleMouseLeave(5,/*******/)
+        }
+        /* END EXTERNAL SOURCE */
+        /* BEGIN EXTERNAL SOURCE */
+        function name209() {
+            /***/
+        }</script>
+
+
+    <style>
+
+        a.small-item.active {
+            background: #f90000;
+        }
+
+        a.small-item {
+            display: inline-block;
+            padding: 4px;
+        }
+
+        .item-attrxx {
+            width: auto;
+            border: 1px solid #ccc;
+            background: #F2F2F2;
+            text-align: center;
+            display: block;
+            float: left;
+            cursor: pointer;
+            position: relative;
+            font-size: 13px;
+            margin-right: 10px;
+            margin-bottom: 5px;
+            padding: 1px;
+        }
+
+            .item-attrxx > .labelxx {
+                display: block;
+                height: 26px;
+                min-width: 26px;
+                line-height: 26px;
+                padding: 0 2px;
+            }
+
+        .sizeProduct {
+            float: right;
+            width: 50%;
+            text-align: center;
+            height: 1em;
+        }
+
+        .checkxx {
+            box-shadow: 0px 0px 2px 2px #FF6363;
+        }
+
+        .button-add-to-cart {
+            clear: both;
+            margin: 5px auto 5px;
+            height: 40px;
+            position: relative;
+            float: left;
+        }
+
+        .mask_cart {
+            width: 100%;
+            height: 100%;
+            background: #333;
+            display: none;
+            position: absolute;
+            top: 0;
+            right: 0;
+            z-index: 2;
+            opacity: 0;
+        }
+
+        .quantity input {
+            width: 45px;
+            height: 37px;
+            padding: 0 10px;
+            border: #ddd solid 1px;
+        }
+
+        .quantity .minus {
+            background: #666;
+            color: #fff;
+            display: block;
+            position: absolute;
+            top: 0;
+            right: 0;
+            padding: 3px 4px;
+            line-height: 13px;
+            font-size: 18px;
+        }
+
+        input[type="radio"], input[type="checkbox"] {
+            opacity: 0 !important;
+            width: 0px !important;
+            height: 0px !important;
+        }
+
+
+        /*POPUP*/
+        #popuperror {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            display: none;
+        }
+
+
+        .pupuperror_mask {
+            position: fixed;
+            width: 100%;
+            height: 100% !important;
+            top: 0px;
+            left: 0;
+            text-align: center;
+            background: #666;
+            display: block;
+            z-index: 1;
+            opacity: 0.8;
+        }
+
+        .popuperror_box {
+            width: 500px;
+            height: 200px;
+            display: block;
+            background: #fff;
+            margin: 120px auto;
+            opacity: 1;
+            z-index: 100 !important;
+            position: fixed;
+            left: 32%;
+        }
+
+        #popuperror_close {
+            position: absolute;
+            right: 20px;
+            bottom: 20px;
+            border: 1px solid #ddd;
+            padding: 5px 20px;
+            font-weight: 700;
+            cursor: pointer;
+        }
+
+            #popuperror_close:hover {
+                background: #333;
+                color: #fff;
+            }
+    </style>
+
+
+
+}
+<div id="popuperror">
+    <div class="popuperror_box">
+        <div style="width: 100%; height: 50px; text-align: center; line-height: 50px; font-weight: 600; background: #333; color: #fff;">
+            THÔNG BÁO
+        </div>
+
+
+        <div style=" width: 100%; height: 400px; text-align: center; line-height: 120px; font-weight: 600; color: #333;">
+            Chọn cỡ giày trước khi thêm vào giỏ hàng!
+        </div>
+        <span id="popuperror_close">
+            OK
+        </span>
+    </div>
+    <div class="pupuperror_mask"></div>
+
+</div>
+
+<div class=" single_top">
+    <div class="single_grid">
+        <div class="grid images_3_of_2">
+            <ul id="etalage">
+                <li>
+                    @*<a href="optionallink.html">*@
+                    <img class="etalage_thumb_image" src="@Model.AnhDaiDien" class="img-responsive main-thumbnail" title="" />
+                    <img class="etalage_source_image" src="@Model.AnhDaiDien" class="img-responsive main-image" title="" />
+                    
+                    @*</a>*@
+                </li>
+                
+                    
+                
+            </ul>
+            <div class="clearfix"> </div>
+        </div>
+        <div class="desc1 span_3_of_2">
+
+            <h4>@Model.TenSP</h4>
+            <div class="button-add-to-cart">
+                @if (user != null && db.YeuThiches.FirstOrDefault(x => x.NguoiDungId == user.ID && x.SanPhamId == Model.ID) != null)
+                {
+                    <a class="btn btn-primary" onclick="favorite(@Model.ID)" href="#"><i class="fa fa-heart">&nbsp;</i>Hủy Yêu thích</a>
+                }
+                else
+                {
+                    <a class="btn btn-primary" onclick="favorite(@Model.ID)" href="#"><i class="fa fa-heart">&nbsp;</i>Yêu thích</a>
+                }
+            </div>
+            <div class="cart-b">
+                <div class="left-n ">
+                    @if (Model.GiaKhuyenMai.HasValue)
+                    {
+                        <div class="dolor-grid">
+                            <span class="actual">@Model.GiaKhuyenMai.Value.ToString("N0") VNĐ</span>
+                            <span class="reducedfrom1">@Model.Gia.Value.ToString("N0") VNĐ</span>
+                        </div>
+                    }
+                    else
+                    {
+                        <span class="actual">@Model.Gia.Value.ToString("N0") VNĐ</span>
+                    }
+                </div>
+
+                <div class="clearfix"></div>
+            </div>
+
+            <div class="cart-b">
+                <div class="left-n ">
+                    <i class="fas fa-star rating" onclick="rating(1,@Model.ID)" onmouseenter="handleMouseEnter(1,@Model.ID)"></i>
+                    <i class="fas fa-star rating" onclick="rating(2,@Model.ID)" onmouseenter="handleMouseEnter(2,@Model.ID)"></i>
+                    <i class="fas fa-star rating" onclick="rating(3,@Model.ID)" onmouseenter="handleMouseEnter(3,@Model.ID)"></i>
+                    <i class="fas fa-star rating" onclick="rating(4,@Model.ID)" onmouseenter="handleMouseEnter(4,@Model.ID)"></i>
+                    <i class="fas fa-star rating" onclick="rating(5,@Model.ID)" onmouseenter="handleMouseEnter(5,@Model.ID)" onmouseleave="handleMouseLeave()"></i>
+
+                    @if (Model.DanhGia == 0 || Model.DanhGia == null)
+                    {
+                        <span style="font-size:1rem; margin-left: 1rem; margin-bottom: 0.5rem">(Chưa có đánh giá)</span>
+                    }
+                    else
+                    {
+
+                        <span style="font-size:1rem; margin-left: 1rem; margin-bottom: 0.5rem">
+                            ( Được đánh giá @Model.DanhGia <i class="fas fa-star" style="color: #E2F00D"></i> bởi @quantity người)
+                        </span>
+                    }
+                </div>
+
+                <div class="clearfix"></div>
+            </div>
+
+            <h6 style="width: 100%">
+                Các cỡ hiện có:
+            </h6>
+            <div class="sizeProduct" style="width: 100%;display: block;height: auto;border-bottom: 1px solid #ccc;padding-bottom: 10px;">
+
+                @if (vbsize.Count == 0)
+                {
+                    <span style="color: #F97E76;font-size: 1.7em;font-weight: 600;">
+                        Hết cỡ <i class="fa fa-times" aria-hidden="true"></i>
+                    </span>
+                }
+                else
+                {
+                    foreach (var item1 in vbsize)
+                    {
+                        <label class="item-attrxx" title="@item1.Co">
+                            <input type="radio" name="cogiay__" value="@item1.Co">
+                            <span class="labelxx">
+                                @item1.Co
+                            </span>
+
+                            <span class="labelsp" style="display: none;">
+                                @item1.IDSP
+                            </span>
+                        </label>
+                    }
+                }
+
+            </div>
+
+            <h6 style="width: 100%">
+                Hình Ảnh Liên Quan:
+            </h6>
+
+            <div class="clearfix"></div>
+            <div class="colorProduct">
+                @if (Model.MauGiay != "")
+                {
+                    foreach (var item in Model.MauGiay.Split(','))
+                    {
+                        <a href="javascript:;" class="small-item" onclick="setMainImage('@item')">
+                            <img src="@item" width="50" />
+                        </a>
+                    }
+                }
+
+            </div>
+            @*<div class="button-add-to-cart">
+            <h6>
+                Chọn số lượng:
+            </h6>
+            <div class="sizeProduct">
+                <input type="text" value="1" id="txtQuantity" class="quantity" style="float: right; width: 25%;">
+            </div>
+        </div>*@
+            <div class="button-add-to-cart">
+                @if (vbsize.Count != 0)
+                {
+                    <a class="now-get get-cart-in" href="#">THÊM VÀO GIỎ HÀNG</a>
+                }
+            </div>
+
+
+
+            <div style="clear: both; overflow: hidden; position: relative; max-height: 265px; text-overflow: ellipsis; white-space: normal; ">
+                <p>Mô tả: @Html.Raw(@Model.MoTaSP)</p>
+            </div>
+
+        </div>
+        <div class="clearfix"></div>
+    </div>
+
+
+    <div class="toogle">
+        <h3 class="m_3">THÔNG TIN SẢN PHẨM</h3>
+        <p class="m_text" style="font-size: 15px;">@Html.Raw(@Model.ChiTietSP)</p>
+    </div>
+
+
+
+    <h3 style="border: 1px solid #ddd; padding: 8px 10px; background: #0D8A79; color: #fff; font-size: 20px; font-weight: 600;"> SẢN PHẨM LIÊN QUAN</h3>
+    @if (vbrelative.Count == 0)
+    {
+        <h3>Hiện chưa có sản phẩm liên quan</h3>
+    }
+
+    else
+    {
+        <div class="owl-carousel">
+            @foreach (var item in vbrelative)
+            {
+                if (item.GiaKhuyenMai > 0)
+                {
+                    <div>
+                        <a href="@Url.Action("ChiTiet","SanPham", new { id = item.ID })">
+                            <img src="@item.AnhDaiDien" />
+                        </a> 
+                        <div class="grid-flex">
+                            <a href="/SanPham/ChiTiet/@item.ID" style="max-height: 10px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap">
+                                @item.TenSP
+                            </a>
+                            <p style="text-decoration: line-through">@item.Gia.Value.ToString("N0") VNĐ</p>
+                            <h6>@item.GiaKhuyenMai.Value.ToString("N0") VNĐ</h6>
+                        </div>
+                    </div>
+                }
+                else
+                {
+                    if (@item.GiaKhuyenMai <= 0 || @item.GiaKhuyenMai == null)
+                    {
+                        <div>
+                            <a href="@Url.Action("ChiTiet","SanPham", new { id = item.ID })">
+                                <img src="@item.AnhDaiDien" />
+                            </a> 
+                            <div class="grid-flex">
+                                <a href="/SanPham/ChiTiet/@item.ID">
+                                    @item.TenSP
+                                </a>
+                                <h6>@item.Gia.Value.ToString("N0") VNĐ</h6>
+                            </div>
+                        </div>
+                    }
+                }
+
+            }
+        </div>
+    }
+    <div id="fb-root" style="margin-top: 50px;"></div>
+    <script></script>
+
+    <div class="fb-like" data-href="nghihung.com/SanPham/ChiTiet/@Model.Metatitle/@Model.ID" title="" data-width="100%" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+
+    <div class="fb-comments" data-href="nghihung.com/SanPham/ChiTiet/@Model.Metatitle/@Model.ID" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
+
+
+    <script type="text/javascript"></script>
+    <script type="text/javascript" src="/Assets/Client/js/jquery.flexisel.js"></script>
+</div>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" />
+
+<style>
+    .rating {
+        color: #050505;
+    }
+
+        .rating.enable {
+            color: #E2F00D;
+        }
+
+    .owl-nav .owl-prev {
+        font-size: 1rem;
+        margin-right: 1rem;
+    }
+    .slick-slide{
+        height: 37rem !important;
+    }
+    .slick-slide img {
+        width: 22rem;
+        height: auto;
+        object-fit: cover
+    }
+</style>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css"  /> 
+
+@section jsFooter{
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous"></script>
+
+
+    <script>
+        const rates = $("#rate").val();
+        var item = $(".rating");
+        for (let x = 0; x < item.length; x++) {
+            if (x < rates) {
+                item[x].classList.add("enable");
+            }
+        }
+
+
+        function rating(rate, sanphamId) {
+            $.ajax({
+                type: "put",
+                url: "/sanpham/RatingsProduct",
+                data: { id: sanphamId, rate: rate },
+                success: function (res) {
+                    if (res.IsSuccess) {
+                        window.location.href = res.Message;
+                    }
+                    else {
+                        alert(res.Message);
+                    }
+                }
+            })
+        }
+
+        function favorite(sanphamId) {
+            debugger
+            $.ajax({
+                type: "put",
+                url: "/SanPham/YeuThich?",
+                data: { id: sanphamId},
+                success: function (res) {
+                    if (res.IsSuccess) {
+                        window.location.href = res.Message;
+                    }
+                    else {
+                        alert(res.Message);
+                    }
+                }
+            })
+        }
+
+
+        function handleMouseEnter(rate, sanphamId) {
+
+            for (var i = 0; i < item.length; i++) {
+                let el = item[i];
+                if (i < rate) {
+                    el.classList.add("enable");
+                }
+                else {
+                    el.classList.remove("enable");
+                }
+            }
+        }
+
+        function handleMouseLeave() {
+            for (var i = 0; i < item.length; i++) {
+                let el = item[i];
+                if (i >= rates) {
+                    el.classList.remove("enable");
+                }
+            }
+        } 
+
+
+        $('.owl-carousel').slick({
+            dots: false,
+            infinite: true,
+            arrows: false,
+            autoplay: true,
+            autoplaySpeed: 1000,
+            cssEase: 'ease',
+            speed: 300,
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2, 
+                    }
+                },
+                {
+                    breakpoint: 600,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                } 
+            ]
+        }); 
+
+    </script>
+}

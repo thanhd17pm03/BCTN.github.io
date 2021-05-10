@@ -1,0 +1,284 @@
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.dll.config
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.pdb
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\CKFinder.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Microsoft.Web.Infrastructure.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Newtonsoft.Json.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.Mvc.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Net.Http.Formatting.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Helpers.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.WebHost.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Mvc.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Razor.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Deployment.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Razor.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\EntityFramework.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.pdb
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\CKFinder.pdb
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.Mvc.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Newtonsoft.Json.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Net.Http.Formatting.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Helpers.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.WebHost.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Mvc.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Razor.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Deployment.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Razor.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\EntityFramework.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csprojResolveAssemblyReference.cache
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.pdb
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.dll.config
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.pdb
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\CKFinder.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.Mvc.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Razor.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\EntityFramework.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.pdb
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.dll.config
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\CKFinder.pdb
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.xml
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.Mvc.xml
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.xml
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Razor.xml
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\EntityFramework.xml
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csproj.CopyComplete
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.pdb
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.dll.config
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.dll
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.pdb
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\CKFinder.dll
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.dll
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\EntityFramework.dll
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.pdb
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.dll.config
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\CKFinder.pdb
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.xml
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.Mvc.xml
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.xml
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\EntityFramework.xml
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csproj.CopyComplete
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.dll
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.pdb
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Log4Net.Async.dll
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\log4net.dll
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\log4net.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.dll.config
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.dll
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.pdb
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\CKFinder.dll
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Log4Net.Async.dll
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\log4net.dll
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.dll
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.pdb
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.dll.config
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\CKFinder.pdb
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\log4net.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.Mvc.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Newtonsoft.Json.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Net.Http.Formatting.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Helpers.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.WebHost.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Mvc.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Razor.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Deployment.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Razor.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\EntityFramework.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csprojAssemblyReference.cache
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csproj.CoreCompileInputs.cache
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csproj.CopyComplete
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.dll
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.pdb
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Helpers.dll
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.dll.config
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.dll
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.pdb
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\CKFinder.dll
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Log4Net.Async.dll
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\log4net.dll
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.dll
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.pdb
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.dll.config
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\CKFinder.pdb
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\EntityFramework.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\log4net.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.Mvc.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csproj.CopyComplete
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.dll
+C:\Users\admin\Desktop\BCTN\1724801030143\doantotngiiep11\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.pdb
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.dll.config
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.dll
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.pdb
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\CKFinder.dll
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Log4Net.Async.dll
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\log4net.dll
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.dll
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.pdb
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.dll.config
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\CKFinder.pdb
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\EntityFramework.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\log4net.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.Mvc.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csproj.CopyComplete
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.dll
+C:\Users\admin\Desktop\BCTN\1724801030143\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.pdb
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.dll.config
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.dll
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.pdb
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\CKFinder.dll
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Log4Net.Async.dll
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\log4net.dll
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.dll
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.pdb
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.dll.config
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\CKFinder.pdb
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\EntityFramework.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\log4net.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.Mvc.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Newtonsoft.Json.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Net.Http.Formatting.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Helpers.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.WebHost.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Mvc.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Razor.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Deployment.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Razor.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csprojAssemblyReference.cache
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csproj.CoreCompileInputs.cache
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csproj.CopyComplete
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.dll
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.pdb
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.dll.config
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.dll
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.pdb
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\CKFinder.dll
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Log4Net.Async.dll
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\log4net.dll
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.dll
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.pdb
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.dll.config
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\CKFinder.pdb
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\EntityFramework.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\log4net.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.Mvc.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csproj.CopyComplete
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.dll
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.pdb
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.dll.config
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.dll
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\DoAnTotNghiepBanGiay.pdb
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\CKFinder.dll
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Log4Net.Async.dll
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\log4net.dll
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.dll
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.pdb
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Model.dll.config
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\CKFinder.pdb
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\EntityFramework.xml
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\log4net.xml
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.xml
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\PagedList.Mvc.xml
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.xml
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.csproj.CopyComplete
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.dll
+C:\Users\admin\Desktop\totnghiep\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\obj\Debug\DoAnTotNghiepBanGiay.pdb

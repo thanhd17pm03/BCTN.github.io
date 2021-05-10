@@ -1,0 +1,103 @@
+﻿@model Model.EF.TAIKHOAN
+
+@{
+    ViewBag.Title = "CreateAccount";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+@section sectionhead{
+    <style>
+        .form-group {
+            padding-bottom: 25px !important;
+        }
+    </style>
+
+
+    <script>
+        $(document).ready(function () {
+
+        });
+    </script>
+}
+
+
+
+@section sectiontitleheader{
+
+    <h2>CreateAccount</h2>
+}
+
+
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TenTaiKhoan, htmlAttributes: new { @class = "control-laber col-md-2" })
+            <div class="col-md-8">
+                @Html.TextBoxFor(model => model.TenTaiKhoan, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.TenTaiKhoan)
+            </div>
+        </div>
+
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.MatKhau, htmlAttributes: new { @class = "control-laber col-md-2" })
+
+            <div class="col-md-8">
+                @Html.PasswordFor(model => model.MatKhau, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.MatKhau)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.HoTen, htmlAttributes: new { @class = "control-laber col-md-2" })
+
+            <div class="col-md-8">
+                @Html.TextBoxFor(model => model.HoTen, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.HoTen)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DiaChi, htmlAttributes: new { @class = "control-laber col-md-2" })
+
+            <div class="col-md-8">
+                @Html.TextBoxFor(model => model.DiaChi, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.DiaChi)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-laber col-md-2" })
+            <div class="col-md-8">
+                @Html.TextBoxFor(model => model.Email, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Email)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.SoDienThoai, htmlAttributes: new { @class = "control-laber col-md-2" })
+
+            <div class="col-md-8">
+                @Html.TextBoxFor(model => model.SoDienThoai, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.SoDienThoai)
+            </div>
+        </div>
+
+        <center>
+            <input type="submit" class="btn btn-danger" value="CREATE" />
+        </center>
+    </fieldset>
+}
+<div style="margin: 10px auto 10px">
+    @Html.ActionLink("Back to List", "Index", "UserManager")
+</div>
+

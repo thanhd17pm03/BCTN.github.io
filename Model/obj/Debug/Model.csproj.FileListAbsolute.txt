@@ -1,0 +1,106 @@
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.dll.config
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.pdb
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.Mvc.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.Mvc.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.dll.config
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.xml
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Documents\Project\DoAnBanGiay\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.pdb
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.dll.config
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.dll
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.pdb
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.dll
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.xml
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.dll
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.pdb
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\Log4Net.Async.dll
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\log4net.dll
+C:\Users\admin\Desktop\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\log4net.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.dll.config
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.dll
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.pdb
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.dll
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\Log4Net.Async.dll
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\log4net.dll
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.dll
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.Mvc.dll
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\log4net.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.Mvc.xml
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csproj.CopyComplete
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.dll
+D:\asp.net core 3.1\doantotngiiep11\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.pdb
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.dll.config
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.dll
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.pdb
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.dll
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\Log4Net.Async.dll
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\log4net.dll
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.dll
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.Mvc.dll
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\log4net.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.Mvc.xml
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csproj.CopyComplete
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.dll
+D:\Custom\Source\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.pdb
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.dll.config
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.dll
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.pdb
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\Log4Net.Async.dll
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\log4net.dll
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.dll
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\log4net.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.dll
+C:\Users\admin\Desktop\123\DoAnTotNghiepBanGiay\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.pdb

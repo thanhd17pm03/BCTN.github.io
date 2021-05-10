@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Model.EF.YeuThich>
+
+@{
+    ViewBag.Title = "DanhSachYeuThich";
+    Layout = "~/Views/Shared/_layoutClient1.cshtml";
+    var count = 1;
+    Model.EF.DoanTNDataContext db = new Model.EF.DoanTNDataContext();
+}
+
+<div class=" single_top">
+    <h4 style="font-size:23px; margin-top:-35px;margin-left:280px;">Danh sách yêu thích</h4>
+    <div class="single_grid">
+
+        <table class="table table-hover">
+            <tr>
+                <th>
+                    STT
+                </th>
+                <th>
+                    Tên sản phẩm
+                </th>
+                <th>
+                    Ảnh sản phẩm
+                </th>
+                <th>
+                    Giá tiền
+                </th>
+                <th>
+                    Đánh giá
+                </th>
+                <th>
+                    Ngày yêu thích
+                </th>
+                <th>Công cụ</th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                var pro = db.SANPHAMs.Find(item.SanPhamId);
+                <tr>
+                    <td>
+                        <span>@count</span>
+                    </td>
+                    <td>
+                        @pro.TenSP
+                    </td>
+                    <td>
+                        <img src=" @pro.AnhDaiDien" style="width:120px;height:150px;" />
+                    </td>
+                    <td>
+                        @(pro.GiaKhuyenMai != null ? pro.GiaKhuyenMai : pro.Gia)
+                    </td>
+                    <td>
+                        @pro.DanhGia
+                    </td>
+                    <td>
+                        @item.NgayThem.Value.ToLongDateString()
+                    </td>
+                    <td>
+                        <a href="/SanPham/ChiTiet/@item.SanPhamId"><i class="fa fa-eye" style="color: blue"></i></a>
+                    </td>
+                </tr>
+                count++;
+            }
+
+        </table>
+    </div>
+</div>
+
+

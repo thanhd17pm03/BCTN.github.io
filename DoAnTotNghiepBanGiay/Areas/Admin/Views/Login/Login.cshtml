@@ -1,0 +1,30 @@
+﻿@using Model.ViewModel;
+@model UserCredentials
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div class="container-fluid">
+    <div class="title">
+        <h2 class="bg-primary text-center text-white text-uppercase" style="padding: 1rem 0;">
+            Đăng nhập hệ thống
+        </h2>
+    </div>
+
+    <div class="form-group row">
+        <label class="col-form-label">
+            Tài khoản
+        </label>
+        <div class="col-lg-10">
+            <input type="text" name="UserName" class="form-control" />
+        </div>
+    </div>
+    <div class="form-group row">
+        <label class="col-form-label">
+            Mật khẩu
+        </label>
+        <div class="col-lg-10">
+            <input type="password" name="UserName" class="form-control" />
+        </div>
+    </div>
+</div>

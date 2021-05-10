@@ -1,0 +1,121 @@
+﻿@model Model.EF.LIENHE
+@using PagedList.Mvc;
+
+
+@{
+    Layout = "~/Views/Shared/_layoutLienHe.cshtml";
+}
+
+@section sectionHeader{
+    <title>Liên hệ</title>
+}
+
+
+<div class="ct-right">
+    <div class="breadcrumb">
+        <a href="/">Trang chủ</a><span><i class="fa fa-angle-double-right red"></i></span><span class="red">Liên hệ</span>
+    </div><!--End breadcrumb-->
+    <div class="block intro contact">
+        <div class="bl-title">
+            <i class="fa fa-phone-square" aria-hidden="true"></i>
+            <h2><a href="#">Liên hệ với chúng tôi</a></h2>
+        </div><!--End title-->
+
+        <div class="contact-right col-md-6">
+            <h3>CÔNG TY TNHH MTV HTStore</h3>
+            <p>
+                <strong>Địa chỉ Bình Dương: </strong>59 D1 Phú Hòa Thủ Dầu Một Bình Dương
+            </p>
+            <p>
+                <strong>Địa chỉ An Giang : </strong>Chợ Mới, An Giang
+            </p>
+            <p><strong>Hotline:</strong> 096.8927.358</p>
+
+            <h3 class="contact-hl margintop30 blue">Tìm trên bản đồ</h3>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.860802671008!2d106.67803611474524!3d10.973877658518884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174d0d71165c01d%3A0xfb83a6f429eec9d9!2zNTkgRDEsIFBow7ogSG_DoCwgVGjhu6cgROG6p3UgTeG7mXQsIELDrG5oIETGsMahbmcsIFZpZXRuYW0!5e0!3m2!1sen!2s!4v1616940648823!5m2!1sen!2s" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div><!--End ft-right-->
+        <div class="block-ct  col-md-6">
+
+            @using (Html.BeginForm("Index", "LienHe", FormMethod.Post, htmlAttributes: new { @class = "contact-left" }))
+            {
+                @Html.AntiForgeryToken()
+                @Html.ValidationSummary(true)
+                <form id="frmFeedback">
+                    <h5>THÔNG TIN LIÊN HỆ:</h5>
+                    <div class="row">
+                        <div class="col-md-12 padding10">
+                            <div class="col-md-3">Tên bạn:<span class="red">*</span></div>
+                            <div class="col-md-9">
+                                @*<input name="txtName" id="txtName" type="text" class="big-text">*@
+                                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "hvalidation" })
+                                @Html.TextBoxFor(x => x.Name, htmlAttributes: new { @class = "big-text", @name = "txtName", id = "txtName", @type = "text" })
+                            </div>
+                        </div>
+                        <div class="col-md-12 padding10">
+                            <div class="col-md-3">Điện thoại:<span class="red">*</span></div>
+                            <div class="col-md-9">
+                                @*<input name="txtMobile" id="txtMobile" type="text" class="big-text">*@
+                                @Html.ValidationMessageFor(model => model.Phone, "", new { @class = "hvalidation" })
+                                @Html.TextBoxFor(x => x.Phone, htmlAttributes: new { @class = "big-text", @name = "txtMobile", id = "txtMobile", @type = "number", @maxlength = "3" })
+                            </div>
+                        </div>
+                        <div class="col-md-12 padding10">
+                            <div class="col-md-3">Email:<span class="red">*</span></div>
+                            <div class="col-md-9">
+                                @*<input name="txtEmail" id="txtEmail" type="text" class="big-text">*@
+                                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "hvalidation" })
+                                @Html.TextBoxFor(x => x.Email, htmlAttributes: new { @class = "big-text", @name = "txtEmail", id = "txtEmail", @type = "Email" })
+                            </div>
+                        </div>
+                        <div class="col-md-12 padding10">
+                            <div class="col-md-3">Địa chỉ:<span class="red">*</span></div>
+                            <div class="col-md-9">
+                                @*<input name="txtAddress" id="txtAddress" type="text" class="big-text">*@
+                                @Html.ValidationMessageFor(model => model.Address, "", new { @class = "hvalidation" })
+                                @Html.TextBoxFor(x => x.Address, htmlAttributes: new { @class = "big-text", @name = "txtAddress", id = "txtAddress", @type = "Text" })
+                            </div>
+                        </div>
+                        <div class="col-md-12 padding10">
+                            <div class="col-md-3">Nội dung:</div>
+                            <div class="col-md-9">
+
+                                @*<textarea name="txtContent" id="txtContent" style="margin: 0px; max-width: 301px; min-height: 200px; width: 301px;"></textarea>*@
+                                @Html.ValidationMessageFor(model => model.Content, "", new { @class = "hvalidation" })
+                                @Html.TextAreaFor(x => x.Content, htmlAttributes: new { @class = "big-text", @name = "txtContent", id = "txtContent", @style = "margin: 0px; min-height: 100px;" })
+                            </div>
+                        </div>
+                        <div class="col-md-12 padding10">
+                            <div class="col-md-2">
+
+                            </div>
+                            <div class="col-md-10">
+                                <button id="btnCancel" type="reset" class="btn btn-warning ct-button">Làm lại</button>
+                                <button type="submit" id="btnSend" class="btn btn-success ct-button" >Gửi đi</button>
+                                @*@Ajax.ActionLink("Gửi đi", "Index", "LienHe", new AjaxOptions
+                                    {
+                                        Confirm = "Bạn có chắc chắn muốn gửi phản hồi?",
+                                        OnComplete = "$('#frmFeedback').fadeOut(300);toastr.success('Gửi liên hệ thành công', 'Thông báo', {timeOut: 5000});",
+                                        HttpMethod = "Post"
+                                    }, new { })*@
+                            </div>
+                        </div>
+                    </div>
+                </form><!--End contact-left-->
+            }
+
+        </div><!--End contact-right-->
+    </div><!--End block-ct-->
+</div>
+@Html.Raw("<script>" + ViewBag._Scripts + "</script>")
+
+@*<script>
+
+    function sendSuccess() {
+        
+    }
+</script>*@
+
+
+
+
+

@@ -1,0 +1,97 @@
+﻿@using Model.ViewModel;
+@model ThongKeDoanhThuViewModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div class="title">
+    <h2 class="bg-primary text-center text-white text-uppercase" style="padding: 1rem 0;">
+        Quản trị hệ thống
+    </h2>
+</div>
+
+<input type="hidden" id="time" value="@Model.ThoiGian" />
+<input type="hidden" id="quantity" value="@Model.SoLuong" />
+<input type="hidden" id="price" value="@Model.ThanhTien" />
+
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="text-center">
+                <h2>Doanh thu theo số lượng</h2>
+            </div>
+            <canvas id="canvas_quantity"></canvas>
+        </div>
+        <div class="col-md-6">
+            <div class="text-center">
+                <h2>Doanh thu theo tiền</h2>
+            </div>
+            <canvas id="canvas_price"></canvas>
+        </div>
+    </div>
+</div>
+
+
+@section scriptfooter{
+    <script src="~/Assets/Admin/js/chart.min.js"></script>
+    <script>
+        var canvas_quantity = document.getElementById('canvas_quantity').getContext('2d');
+        var canvas_price = document.getElementById('canvas_price').getContext('2d');
+
+        var time = $("#time").val().split(',');
+        var soLuong = $("#quantity").val().split(',');
+        var thanhtien = $("#price").val().split(',');
+        console.log(time, soLuong, thanhtien);
+
+        var canvas_quantity = new Chart(canvas_quantity, {
+            type: 'bar',
+            data: {
+                labels: time,
+                datasets: [{
+                    label: 'Số lượng',
+                    data: soLuong,
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.2)',
+                    ],
+                    borderColor: [
+                        'rgba(255, 99, 132, 1)',
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+        var canvas_price = new Chart(canvas_price, {
+            type: 'bar',
+            data: {
+                labels: time,
+                datasets: [{
+                    label: 'Thành tiền',
+                    data: thanhtien,
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.2)',
+                    ],
+                    borderColor: [
+                        'rgba(255, 99, 132, 1)',
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    </script>
+}

@@ -1,0 +1,101 @@
+﻿@using Model.ViewModel;
+@model IEnumerable<Model.EF.CHITIETDONHANG>
+
+@{
+    ViewBag.Title = "DanhSachMuaHang";
+    Layout = "~/Views/Shared/_layoutClient1.cshtml";
+    var count = 1;
+    Model.EF.DoanTNDataContext db = new Model.EF.DoanTNDataContext();
+}
+
+<div class=" single_top">
+    <div class="single_grid">
+        <h3>Danh sách mua hàng</h3>
+        <table class="table table-hover">
+            <tr>
+                <th>
+                    STT
+                </th>
+                <th>
+                    Tên sản phẩm
+                </th>
+                <th>
+                    Giá tiền
+                </th>
+                <th>
+                    Số lượng
+                </th>
+                <th>
+                    Tình trang
+                </th>
+                <th>
+                    Ngày mua
+                </th>
+                <th>Công cụ</th>
+            </tr>
+
+            @foreach (var item in Model.OrderByDescending(t => t.ID))
+            {
+                var pro = db.SANPHAMs.Find(item.IDSP);
+                var dh = db.DONHANGs.FirstOrDefault(x => x.ID == item.IDDonHang);
+                <tr>
+                    <td>
+                        <span>@count</span>
+                    </td>
+                    <td>
+                        @if(pro != null) 
+                        { 
+                            <span>@pro.TenSP</span>
+                        }
+                    </td>
+                    <td>
+                        @if(pro != null)
+                        {
+                        <span>@(pro.GiaKhuyenMai != null ? pro.GiaKhuyenMai.Value.ToString("#,##") : pro.Gia.Value.ToString("#,##"))</span>
+                        }
+
+                        @*@(pro.GiaKhuyenMai != null ? pro.GiaKhuyenMai : pro.Gia)*@
+                    </td>
+                    <td>
+                        @item.SoLuong
+                    </td>
+                    <td>
+                        @if (dh.TinhTrang == Constanst.CHUA_XU_LY)
+                        {
+                            <span class="alert-info">Chưa xử lý</span>
+                        }
+                        else
+                        {
+                            if (dh.TinhTrang == Constanst.HOAN_THANH)
+                            {
+                                <span class="alert-success">Hoàn thành</span>
+                            }
+                            else
+                            {
+                                if (dh.TinhTrang == Constanst.CHUA_XU_LY)
+                                {
+                                    <span class="alert-link">Đã xuất</span>
+                                }
+                                else
+                                { 
+                                    <span class="alert-danger">Đã Hủy</span>
+                                }
+                            }
+                        }
+                    </td>
+
+                    <td>
+                        @dh.NgayTao.Value.ToLongDateString()
+                    </td>
+                    <td>
+                        <a href="/SanPham/ChiTiet/@item.IDSP"><i class="fa fa-eye" style="color: blue"></i></a>
+                    </td>
+                </tr>
+                count++;
+            }
+
+        </table>
+    </div>
+</div>
+
+
